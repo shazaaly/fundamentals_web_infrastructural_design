@@ -18,5 +18,7 @@ What is the role of the application server ?
 
 - The application server focuses on processing dynamic requests and executing business logic required to generate and serve dynamic web pages to users. It serves as the intermediary layer between the web server and the database, managing data processing and interaction.
 
-What is the role of the database
-What is the server using to communicate with the computer of the user requesting the website
+What is the role of the database ?
+
+- storing structured data for applications and websites, application server transmit requests that needs data stored in database, then response is back from database server to application server carrying requested data. request may involve data retrieval or update or delete.
+  What is the server using to communicate with the computer of the user requesting the website
