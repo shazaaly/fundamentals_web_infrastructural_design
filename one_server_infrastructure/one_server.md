@@ -8,7 +8,10 @@ Server a powerful computer or machine with suffecient resources, can be physical
 <strong>What is the role of the domain name?</strong>
 Domain name is human readable to be used in URL to navigate the corresponding web site needed by user, DNS will translate it into corresponding machine readable ip address.
 
-What type of DNS record www is in www.foobar.com?
+<strong>What type of DNS record www is in https://example.com ?</strong>
+
+- CNAME canonical record. human readable alias that insures that www.domain_name.com will map as well as dpmain_name.com to the same ip address.
+- This simplifies the process of accessing a website by allowing users to reach the site using either the "www" prefix or the domain name alone.
 
 What is the role of the web server
 What is the role of the application server
