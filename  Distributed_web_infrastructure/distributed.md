@@ -1,3 +1,4 @@
+![Distributed servers web infrastructure](./images/distributed.png)
 <strong> Distributed web infrastructure </strong>
 
 What distribution algorithm the load balancer is configured with?
