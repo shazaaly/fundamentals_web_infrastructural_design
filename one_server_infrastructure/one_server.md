@@ -22,3 +22,7 @@ What is the role of the database ?
 
 - storing structured data for applications and websites, application server transmit requests that needs data stored in database, then response is back from database server to application server carrying requested data. request may involve data retrieval or update or delete.
   What is the server using to communicate with the computer of the user requesting the website
+
+What is the server using to communicate with the computer of the user requesting the website ?
+
+- When a user enters a URL (Uniform Resource Locator) in their web browser or clicks on a link, the browser initiates an HTTP request to the corresponding web server. The HTTP request includes information about the resource being requested, any additional data or parameters, and the method of the request (e.g., GET, POST, PUT, DELETE).
