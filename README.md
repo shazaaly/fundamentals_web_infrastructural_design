@@ -1,4 +1,4 @@
-# fundamentals_web_infrastructural_design
+# Fundamentals of web infrastructural design
 
 Web infrastructural design refers to the process of planning and creating the underlying framework and architecture that supports a web application or website. It involves making decisions about various components and technologies that will be used to ensure the application's reliability, scalability, performance, security, and maintainability.
 
