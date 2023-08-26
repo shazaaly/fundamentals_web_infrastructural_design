@@ -26,3 +26,11 @@ What is the role of the database ?
 What is the server using to communicate with the computer of the user requesting the website ?
 
 - When a user enters a URL (Uniform Resource Locator) in their web browser or clicks on a link, the browser initiates an HTTP request to the corresponding web server. The HTTP request includes information about the resource being requested, any additional data or parameters, and the method of the request (e.g., GET, POST, PUT, DELETE).
+
+Issues in one server infrastructural design:
+
+- SPOF:
+  if the single server experiences a hardware failure, software crash, or any other issue, the entire system becomes unavailable, leading to website
+  downtime
+- Traffic Overload:
+  Since all incoming traffic is directed to a single server, there's a risk of traffic overload during peak usage periods. A sudden surge in user activity, such as during product launches, promotions, or viral content, can lead to a bottleneck and reduced responsiveness.
